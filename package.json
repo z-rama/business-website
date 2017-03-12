@@ -1,6 +1,10 @@
 {
   "name": "vegan_site_final",
   "version": "1.0.0",
+<<<<<<< HEAD
+=======
+  "description": "",
+>>>>>>> c313a2391e26cfd7a14211c9b92caf53fdb559a5
   "main": "fixednavbar.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -16,8 +20,14 @@
   },
   "homepage": "https://github.com/Arneoldenhave/vegan_site_final#readme",
   "dependencies": {
+<<<<<<< HEAD
     "express": "^4.15.2"
   },
   "devDependencies": {},
   "description": ""
+=======
+    "express": "^4.14.1"
+  },
+  "devDependencies": {}
+>>>>>>> c313a2391e26cfd7a14211c9b92caf53fdb559a5
 }
